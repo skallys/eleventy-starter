@@ -7,9 +7,10 @@
     "dev": "npm-run-all --parallel bundle:*",
     "bundle:eleventy": "eleventy --serve --quiet",
     "bundle:parcel": "parcel src/assets/**/* src/**/*.js src/**/*.css",
-    "build": "run-s prod:*",
+    "build": "run-s clean prod:*",
     "prod:eleventy": "eleventy",
-    "prod:parcel": "parcel build src/**/*.js src/**/*.css"
+    "prod:parcel": "parcel build src/**/*.js src/**/*.css src/assets/**/*",
+    "clean": "rm -rf dist"
   },
   "license": "ISC",
   "devDependencies": {
