@@ -1,1 +1,1 @@
-{"mappings":"","sources":["src/css/style.css"],"sourcesContent":[null],"names":[],"version":3,"file":"style.css.map","sourceRoot":"../../"}
+{"mappings":"AAAA;;;;AAIA","sources":["src/css/style.css"],"sourcesContent":["h3 {\n    color: red;\n}\n\nimg {\n    height: 20vw;\n}"],"names":[],"version":3,"file":"style.css.map","sourceRoot":"../../"}

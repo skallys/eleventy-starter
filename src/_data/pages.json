@@ -3,60 +3,70 @@
         "titre": "I. lignes abstraites",
         "emplacement" : "poignet",
         "date":"2019",
-        "url": "assets/img/01tatt.JPG"
+        "url": "/assets/img/01tatt.jpeg",
+        "alt": "lignes abstraites tatouées sur poignet"
     },
     {
         "titre": "II. Silhouette",
         "emplacement" : "côtes",
         "date":"2019" ,
-        "url": "assets/img/02tatt.JPG"
+        "url": "/assets/img/02tatt.jpeg",
+        "alt": "silhouette oneline d'une femme tatouée sur des côtes"
     },
     {
         "titre": "III. Fauteil",
         "emplacement" : "haut du bras",
         "date":"2019" ,
-        "url": "assets/img/03tatt.JPG"
+        "url": "/assets/img/03tatt.jpeg",
+        "alt": "fauteil tatoué avec pleins de textures sur un bras"
     },
     {
         "titre": "IV. Dance w/ me",
         "emplacement" : "mollet",
         "date":"2018" ,
-        "url": "assets/img/04tatt.JPG"
+        "url": "/assets/img/04tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     },
     {
         "titre": "V. Dance w/ me 2",
         "emplacement" : "suisse",
         "date":"2019" ,
-        "url": "assets/img/05tatt.JPG"
+        "url": "/assets/img/05tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     },
     {
         "titre": "VI. Sphynx",
         "emplacement" : "pectoral",
         "date":"2019",
-        "url": "assets/img/06tatt.JPG"
+        "url": "/assets/img/06tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     },
     {
         "titre": "VII. Audrey masquée",
         "emplacement" : "poignet",
         "date":"2019" ,
-        "url": "assets/img/07tatt.JPG"
+        "url": "/assets/img/07tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     },
     {
         "titre": "VIII. Yeux en bocal",
         "emplacement" : "arrière cuisse",
         "date":"2019" ,
-        "url": "assets/img/08tatt.JPG"
+        "url": "/assets/img/08tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     },
     {
         "titre": "IX. Cage à oiseaux",
         "emplacement" : "poignet",
         "date":"2019" ,
-        "url": "assets/img/09tatt.JPG"
+        "url": "/assets/img/09tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     },
     {
         "titre": "X. Siblings",
         "emplacement" : "haut du bras",
         "date":"2019" ,
-        "url": "assets/img/10tatt.JPG"
+        "url": "/assets/img/10tatt.jpeg",
+        "alt": "lignes abstraites sur poignet"
     }
 ]

@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eleventy + Parcel</title>
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    <h1>11ty + Parcel</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti laboriosam, numquam, et delectus esse odit, reiciendis ex nostrum laborum minima ducimus distinctio placeat cumque iusto blanditiis quod natus harum itaque.</p>
-    <img src="assets/img/trail.jpeg">
-    <script type="module" src="js/script.js"></script>    
-</body>
-</html>
+---
+layout: "layouts/boilerplate.liquid"
+---
+
+{% for p in pages %}
+<h3>{{ p.titre }}</h3>
+<h4>{{ p.emplacement }}</h4>
+<p>{{ p.date }}</p>
+<img src="{{ p.url }}" alt="{{ p.alt }}" />
+{% endfor %}
